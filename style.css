@@ -52,7 +52,7 @@ border-spacing:2px 30px;
 body
 {
 	background:white;
-	margin-right:50%;
+	margin:10%;
 	background: linear-gradient(white 2px, #30A7B9);
 }
 /***********************
@@ -68,5 +68,6 @@ margin-left:15px;
 }
 .links
 {
-	box-shadow:2px 3px 4px;
+	text-shadow:2px 3px 4px;
+	box-shadow:2px 9px 2px black;
 }
